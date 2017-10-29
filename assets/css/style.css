@@ -1,0 +1,42 @@
+body {
+	background-image: url("http://chaspikserial.ru/uploads/posts/1files/917953-smoking-full-hd-wallpaper.jpg");
+}
+
+img {
+	width: 100%;
+	max-width: 960px;
+	text-align: center;
+}
+
+.class {
+	margin-top: 50px;
+}
+
+.row {
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	background-color: black;
+	opacity: 75%;
+	margin-top: 10px;
+	width: 100%;
+}
+
+#rules {
+	text-align: center;
+	width: 45%;
+}
+
+#WinsLosses {
+	font-size: 350%;
+	width: 45%;
+}
+
+#GoalNumber {
+	width: 45%;
+}
+
+#drugz {
+	z-index: 1;
+	margin-right: 5px;
+	margin-left: 5px;
+}
