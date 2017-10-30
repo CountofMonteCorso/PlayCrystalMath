@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cap",
+				"captain-planet"
+			],
+			[
+				"rand",
+				"random-button"
+			],
+			[
+				"g",
+				"grilledcheese"
+			],
+			[
+				"p",
+				"pbj"
+			],
+			[
+				"n",
+				"newDiv"
+			],
+			[
+				"drink",
+				"drinkHolder"
+			],
+			[
+				"dirnk",
+				"drink-options"
+			],
+			[
+				"drinks",
+				"drinkList"
+			],
+			[
+				"computer",
+				"computerGuess"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"ques",
+				"questions"
+			],
+			[
+				"question",
+				"questionNumber"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tu",
+				"getTuneUp"
+			],
+			[
+				"driv",
+				"driveAroundWorld"
+			],
+			[
+				"dri",
+				"driveToWork"
+			],
+			[
+				"is",
+				"isWorking"
+			],
+			[
+				"ge",
+				"getTuneUp"
+			],
+			[
+				"drive",
+				"driveToWork"
+			],
+			[
+				"guess",
+				"guessesLeft"
+			],
+			[
+				"com",
+				"computerGuess"
+			],
+			[
+				"adder",
+				"adderReturn"
+			],
+			[
+				"vow",
+				"vowelChecker"
+			],
+			[
+				"mult",
+				"multiplier"
+			],
+			[
+				"us",
+				"userGuess"
+			],
+			[
+				"text-n",
+				"text-indent"
+			],
+			[
+				"confirm",
+				"confirmSteak"
+			],
+			[
+				"best",
+				"bestParty"
+			],
+			[
+				"like",
+				"likeToParty"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wrap",
+				"word-wrap"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"MAR",
+				"margin-left"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "Package Control Install",
+		"selected_items":
+		[
+			[
+				"Package Control Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/05-OnClickBasic/onclick.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Homework/Solutions/week3_PsychicGame_Solution/psychic-game.html",
+		"/C/Users/morris/Desktop/Homework/week-4-game/assets/javascript/game.js",
+		"/C/Users/morris/Desktop/Homework/hw2repos/Bootstrap-Portfolio/index.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/20-jQueryCalculator/Unsolved/jquery-calculator.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/11-FridgeGame/Unsolved/fridge.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/18-ThisExample/Unsolved/this-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/17-ScopeQuiz/Unsolved/scope-quiz-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/15-ScopeThree/Unsolved/lexical-scope-3-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/14-ScopeTwo/Unsolved/lexical-scope-2-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/13-ScopeOne/Unsolved/lexical-scope-1-unsolved.html",
+		"/C/Users/morris/Desktop/Homework/week-4-game/assets/css/style.css",
+		"/C/Users/morris/Desktop/Homework/week-4-game/CrystalMath.html",
+		"/C/Users/morris/Desktop/Homework/week-4-game/assets/css/reset.css",
+		"/C/Users/morris/Desktop/Homework/hw3repos/Hangman-game/assets/javascript/game.js",
+		"/C/Users/morris/Desktop/Homework/hw3repos/Hangman-game/index.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/04-jQueryDrinkList/Unsolved/jquery-drinklist-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/10-CaptainPlanetGame/Unsolved/captain-planet-game.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/07-TriggerRandom/trigger-random-solved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/07-TriggerRandom/Unsolved/trigger-random-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/06-SandwichClick/Unsolved/sandwich-click-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/02-JSDrinkList/Unsolved/drinklist-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/04-jquery/Activities/03-jQueryGenerators/2.html",
+		"/C/Users/morris/Desktop/Homework/hw3repos/Hangman-Game/assets/javascript/game.js",
+		"/C/Users/morris/Desktop/Homework/hw3repos/Hangman-Game/index.html",
+		"/C/Users/morris/Desktop/Homework/hw3repos/Psychic-Game/hw3.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/23-RPS-Coded/Solved/rps-7.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/33-Scope/Unsolved/scope-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/34-QuestionGame/Unsolved/question-game-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/31-MyFirstObject/Unsolved/car-object-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/32-CarGame/act32.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/30-GandalfTheGreyObjects/gandalf-the-grey-objects.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/26-SuperheroLogging/superhero-logging-solved-with-functions.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/27-MyFirstFunctions/Unsolved/my-first-functions-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/23-RPS-Coded/Solved/rps-5.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/23-RPS-Coded/Solved/rps-6.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/23-RPS-Coded/Unsolved/rps-2.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/20-HardLoop/act20.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/25-LoopTV/Unsolved/loop-tv-unsolved.html",
+		"/C/Users/morris/Desktop/activities-8-9/09-FloatLayout-Activity/Unsolved/floats.css",
+		"/C/Users/morris/Desktop/activities-8-9/09-FloatLayout-Activity/Unsolved/floats.html",
+		"/C/Users/morris/Desktop/hw2repos/Bootstrap-Portfolio/index.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/16-MyFirstLoop/my-first-loop.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/17-ZooLoop/Unsolved/zoo-loop-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/15-ArraySetting/Unsolved/array-setting-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/12-ArraysActivity/Unsolved/arrays-activity.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/14-CoolPeopleArray/Unsolved/array-logs-unsolved.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/13-Bands/bands.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/08-ConditionalDemo/conditional-demo.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/10-ConditionalActivity2/conditional-demo-2.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/09-ConditionalActivity/activity.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/06-PromptDemo/prompt-demo.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/07-PromptSushi/Unsolved/prompt-sushi.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/03-PizzaVariables/Unsolved/pizza-variables.html",
+		"/C/Users/morris/Desktop/Class Repository/03-javascript/Activities/01-CodeDissection/js-dissect.html",
+		"/C/Users/morris/Desktop/hw2repos/Responsive-Portfolio/assets/css/style.css",
+		"/C/Users/morris/Desktop/hw2repos/Responsive-Portfolio/assets/css/reset.css",
+		"/C/Users/morris/Desktop/hw2repos/Responsive-Portfolio/index.html",
+		"/C/Users/morris/Desktop/hw2repos/Responsive-Portfolio/reset.css",
+		"/C/Users/morris/Desktop/hw2repos/Responsive-Portfolio/style.css",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/18-StudentMedia/Unsolved/css/style.css",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/18-StudentMedia/Unsolved/media-unsolved.html",
+		"/C/Users/morris/Desktop/day 5 exercises/exerci5e.html",
+		"/C/Users/morris/Desktop/Repositories/Basic-Portfolio/assets/css/reset.css",
+		"/C/Users/morris/Desktop/Repositories/Basic-Portfolio/assets/css/style.css",
+		"/C/Users/morris/Desktop/Repositories/Basic-Portfolio/index.html",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/11-BootstrapDemo/Unsolved/bootsnpants.html",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/10-WheresCSS/bootstrap-powered.html",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/07-CSSTypography/Unsolved/html-template.html",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/07-CSSTypography/Unsolved/7css.css",
+		"/C/Users/morris/Desktop/Class Repository/01-html-git-css/Activities/11-CSS_Positioned_Activity/Solved/positioning.html",
+		"/C/Users/morris/Desktop/Repositories/CountofMonteCorso.github.io/indexcss.css",
+		"/C/Users/morris/Desktop/Repositories/CountofMonteCorso.github.io/index.html",
+		"/C/Users/morris/Desktop/Homework/HW1/HW-Wireframe/style.css",
+		"/C/Users/morris/Desktop/Homework/HW1/HW-Wireframe/da code for hw1.html",
+		"/C/Users/morris/Desktop/Homework/HW1/HW-Wireframe/index.html",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/04-ResetCSS/Unsolved/cssreset.css",
+		"/C/Users/morris/Desktop/Class Repository/02-css-bootstrap/Activities/04-ResetCSS/Unsolved/example.html",
+		"/C/Users/morris/Desktop/week1-day2-html-css/css/style.css",
+		"/C/Users/morris/Desktop/filepaths/Unsolved/RelativePaths_1/html-bio.html",
+		"/C/Users/morris/Desktop/day 2 exercise.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CrystalMath.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

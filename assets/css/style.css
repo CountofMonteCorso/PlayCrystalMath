@@ -4,7 +4,7 @@ body {
 
 img {
 	width: 100%;
-	max-width: 960px;
+	max-width: 1100px;
 	text-align: center;
 }
 
@@ -27,12 +27,25 @@ img {
 }
 
 #WinsLosses {
-	font-size: 350%;
+	font-size: 250%;
 	width: 45%;
+	margin-right: 10px;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
 }
 
 #GoalNumber {
-	width: 45%;
+	width: 20%;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#YourSum {
+	width: 20%;
+	text-align: center;
+	margin-left: 10px;
+
 }
 
 #drugz {
