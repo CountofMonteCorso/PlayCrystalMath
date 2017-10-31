@@ -1,5 +1,6 @@
 body {
 	background-image: url("http://chaspikserial.ru/uploads/posts/1files/917953-smoking-full-hd-wallpaper.jpg");
+	padding: 10px;
 }
 
 img {
@@ -24,6 +25,7 @@ img {
 #rules {
 	text-align: center;
 	width: 45%;
+	margin: 10%;
 }
 
 #WinsLosses {
