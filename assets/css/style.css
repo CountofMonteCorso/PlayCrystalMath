@@ -1,11 +1,15 @@
 body {
-	background-image: url("http://chaspikserial.ru/uploads/posts/1files/917953-smoking-full-hd-wallpaper.jpg");
-	padding: 10px;
+	background-image: url("../../assets/images/smokebg.jpg");
+	padding: 2%;
+}
+
+#banner {
+	width: 100%;
 }
 
 img {
 	width: 100%;
-	max-width: 1100px;
+	max-width: 1200px;
 	text-align: center;
 }
 
@@ -17,15 +21,15 @@ img {
 	font-family: 'Poppins', sans-serif;
 	color: white;
 	background-color: black;
-	opacity: 75%;
 	margin-top: 10px;
 	width: 100%;
+	opacity: 0.9;
 }
 
 #rules {
 	text-align: center;
-	width: 45%;
-	margin: 10%;
+	opacity: 0.7;
+
 }
 
 #WinsLosses {
@@ -52,6 +56,27 @@ img {
 
 #drugz {
 	z-index: 1;
-	margin-right: 5px;
-	margin-left: 5px;
+
 }
+
+.col-xs-3 {
+	padding: 2%;
+}
+
+#meth{
+	opacity: 1.0;
+}
+#coke{
+	opacity: 1.0;
+}
+#ecstasy{
+	opacity: 1.0;
+}
+#weed{
+	opacity: 1.0;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	opacity: 0.8;

@@ -32,7 +32,7 @@ game();
 		console.log(yourSum);
 		$("#YourSum").html("<p> Your drugs currently total: </p> <h1>" + yourSum + "</h1>");
 			if (randomNumber < yourSum) {
-				alert("you suuuuuuck lol");
+				alert("You suuuck... lol jk try again!");
 				losses++;
 				$("#L").html("Losses: " + losses);
 				yourSum = 0;
@@ -41,7 +41,7 @@ game();
 
 			}
 			else if (randomNumber === yourSum) {
-				alert("lucky guess... bitch");
+				alert("Ayyy you got it! Not even bad :]");
 				wins++;
 				$("#W").html("Wins: " + wins);
 				yourSum = 0;
